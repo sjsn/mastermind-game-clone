@@ -1,0 +1,20 @@
+.game {
+    max-width: 40%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row > .guess-stats {
+    flex: 1;
+}
+
+.row > .dots {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex: 11;
+    padding: 5px;
+}

@@ -1,0 +1,1 @@
+export const SOLUTION_OPTIONS = ['blue', 'red', 'green', 'yellow', 'purple', 'orange'];
